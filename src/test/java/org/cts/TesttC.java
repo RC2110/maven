@@ -12,6 +12,14 @@ public class TesttC {
 		System.out.println(i);
 
 	}	
+	
+	private void m6() {
+		System.out.println("new line of code");
+		System.out.println("new line of code");
+		System.out.println("new line of code");
+
+	}
+	
 	public static void main(String[] args) {
 		TesttC c = new TesttC();
 		c.m1();//10
