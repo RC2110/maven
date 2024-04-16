@@ -12,6 +12,17 @@ public class TesttC {
 		System.out.println(i);
 
 	}	
+	
+	private int m3(int a, int b) {
+		int c = a+b;
+		return c;
+	}
+	
+	private void m4(int a, int b) {
+		int c = a+b;
+		System.out.println(m4);
+	}
+	
 	public static void main(String[] args) {
 		TesttC c = new TesttC();
 		c.m1();//10
