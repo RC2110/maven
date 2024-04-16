@@ -20,6 +20,10 @@ public class TesttC {
 
 	}
 	
+	private void m9() {
+		System.out.println("new One");
+
+	}
 	public static void main(String[] args) {
 		TesttC c = new TesttC();
 		c.m1();//10
