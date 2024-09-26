@@ -3,6 +3,8 @@ package org.cts;
 public class TesttC {
 	static int i=10;
 	int c=2;
+	
+	
 	private void m2() {
 		System.out.println(i);
 
@@ -12,6 +14,75 @@ public class TesttC {
 		System.out.println(i);
 
 	}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	private void m6() {
+		System.out.println("new line of code");
+		System.out.println("new line of code");
+		System.out.println("new line of code");
+
+	}
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	private void m9() {
+		System.out.println("new One");
+
+	}
+	
+	private int m3(int a, int b) {
+		int c = a+b;
+		return c;
+	}
+	
+	private void m4(int a, int b) {
+		int c = a+b;
+		System.out.println(m4);
+	}
+	
 	public static void main(String[] args) {
 		TesttC c = new TesttC();
 		c.m1();//10
